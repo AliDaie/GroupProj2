@@ -127,7 +127,7 @@ AnimatorState:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: Scream
-  m_Speed: 0.41
+  m_Speed: 0.34
   m_CycleOffset: 1
   m_Transitions:
   - {fileID: -7637012877130103551}

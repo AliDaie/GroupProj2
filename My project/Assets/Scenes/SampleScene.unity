@@ -10039,21 +10039,6 @@ BoxCollider:
   serializedVersion: 3
   m_Size: {x: 5, y: 1, z: 1}
   m_Center: {x: 0, y: 0, z: 0}
---- !u!114 &568078776
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 568078771}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: c94efa199abecb147a96904f62e660e2, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  spheres: []
-  time: 0
-  initPos: []
 --- !u!1 &569397633
 GameObject:
   m_ObjectHideFlags: 0
@@ -29539,7 +29524,7 @@ MonoBehaviour:
   - {fileID: 417452377}
   - {fileID: 691139270}
   - {fileID: 2051435223}
-  climaxTime: 54
+  climaxTime: 55
   climaxScaleFloat: 4.5
   climaxScaleMultiplier: 5
   climaxObjectColor: {r: 1, g: 1, b: 1, a: 1}
@@ -31210,9 +31195,6 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: c4a073e5669671f4a99721ddf45d77cc, type: 3}
       insertIndex: -1
       addedObject: {fileID: 568078774}
-    - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: c4a073e5669671f4a99721ddf45d77cc, type: 3}
-      insertIndex: -1
-      addedObject: {fileID: 568078776}
     - targetCorrespondingSourceObject: {fileID: -2853166962171840931, guid: c4a073e5669671f4a99721ddf45d77cc, type: 3}
       insertIndex: -1
       addedObject: {fileID: 1619350962}
